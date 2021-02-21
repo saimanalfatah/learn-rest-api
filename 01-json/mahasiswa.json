@@ -1,0 +1,30 @@
+[
+	{
+		"nama": "Saiman",
+		"umur": 22,
+		"nim": "1555201350",
+		"lulus": true,
+		"hobby": [
+			"coding",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Sadio Mane",
+			"pembimbing2": "Roberto Firmino"
+		}
+	},
+	{
+		"nama": "Minamino",
+		"umur": 24,
+		"nim": "1555201355",
+		"lulus": true,
+		"hobby": [
+			"swimming",
+			"gaming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Mohamed Salah",
+			"pembimbing2": "Sadio Mane"
+		}
+	}
+]
